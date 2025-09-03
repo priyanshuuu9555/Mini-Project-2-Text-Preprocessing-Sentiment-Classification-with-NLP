@@ -1,8 +1,9 @@
-📖 ##Overview
+📖 Overview
 
 This project focuses on Natural Language Processing (NLP) techniques to clean raw text data, convert it into numerical form, and classify customer sentiments (Positive, Negative, Neutral).
 
 We apply text preprocessing, vectorization (BoW, TF-IDF, N-Gram), and machine learning models such as Random Forest and Naive Bayes to achieve meaningful sentiment classification.
+
 
 🎯 Objectives
 
@@ -24,6 +25,8 @@ Multinomial Naive Bayes
 
 Evaluate performance with accuracy, F1-score, confusion matrix, and classification report.
 
+
+
 📊 Dataset
 
 File: Product_Reviews.csv
@@ -35,6 +38,8 @@ Product ID – Unique product identifier
 Product Review – Customer feedback text
 
 Sentiment – POSITIVE / NEGATIVE / NEUTRAL
+
+
 
 🛠️ Technologies & Libraries Used
 
